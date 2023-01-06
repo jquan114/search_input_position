@@ -11,4 +11,4 @@
     return nums.length;
 };
 
-searchInsert([1,3,5,6]])
+searchInsert([1,3,5,6]])//2
